@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="https://jws.dev/img/joe/horizontal_header_1500x500.jpeg" alt="Joe from above">
+
+## Greetings! 👋
 
 My name is Joe Steinbring and I am a web application engineer based in Glendale, Wisconsin. I am a traveler, a photographer, a politics watcher, and habitual hobby collector.
 
