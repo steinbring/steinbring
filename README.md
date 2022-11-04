@@ -10,5 +10,5 @@ My name is Joe Steinbring and I am a web application engineer based in Glendale,
 * <a rel="me" href="https://blog.jws.app">Blog</a>
 * <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
 * <a rel="me" href="https://twitter.com/steinbring">Twitter</a>
-* <a rel="me" href="https://mastodon.social/@steinbring">Mastodon</a>
+* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
 * <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
