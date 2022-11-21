@@ -6,8 +6,8 @@ My name is Joe Steinbring and I am a web application engineer based in Glendale,
 
 ### Where to find me online
 
-* <a rel="me" href="https://jws.dev">Website</a>
-* <a rel="me" href="https://blog.jws.app">Blog</a>
-* <a rel="me" href="https://codepen.io/steinbring">CodePen</a>
-* <a rel="me" href="https://toot.works/@joe">Mastodon</a>
-* <a rel="me" href="https://www.linkedin.com/in/steinbring/">LinkedIn</a>
+* <a href="https://jws.dev" rel="me">Website</a>
+* <a href="https://blog.jws.app" rel="me">Blog</a>
+* <a href="https://codepen.io/steinbring" rel="me">CodePen</a>
+* <a href="https://toot.works/@joe" rel="me">Mastodon</a>
+* <a href="https://www.linkedin.com/in/steinbring/" rel="me">LinkedIn</a>
