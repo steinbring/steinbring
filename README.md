@@ -10,6 +10,6 @@ My name is Joe Steinbring and I am a web application engineer based in Glendale,
 * <a href="https://jws.news" rel="nofollow me">Blog</a>
 * <a href="https://codepen.io/steinbring" rel="nofollow me">CodePen</a>
 * <a href="https://huggingface.co/steinbring" rel="nofollow me">Hugging Face</a>
-* <a href="https://toot.works/@joe" rel="nofollow me">Mastodon</a>
-* <a href="https://jws.social/@joe" rel="nofollow me">GoToSocial</a>
+* <a href="https://toot.works/@joe" rel="nofollow me">Toot Works</a>
+* <a href="https://jws.social/@joe" rel="nofollow me">JWS Social</a>
 * <a href="https://www.linkedin.com/in/steinbring/" rel="nofollow me">LinkedIn</a>
